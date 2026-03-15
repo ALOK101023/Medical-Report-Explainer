@@ -1,5 +1,7 @@
 streamlit
 pypdf
+pdf2image
+pytesseract
 feedparser
 langchain
 langchain-openai
